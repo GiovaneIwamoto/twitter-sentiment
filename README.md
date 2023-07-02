@@ -14,6 +14,8 @@ By training the sentiment analyzer with game-specific data, it becomes more adep
 
 ### **FEATURES**
 
+![Train-Val Loss and Confusion Matrix](graph.png)
+
 The implementation of the sentiment analyzer involved the use of BERT multilingual and SNSCRAPE to gather Twitter data for sentiment analysis. BERT, a powerful language model, was fine-tuned with a customized dataset specific to the sentiment classification problem at hand.
 
 To ensure accurate predictions, the dataset was divided into three sets: training, validation, and testing. The training set, which comprised 80% of the data, was used to train the model. The validation set, consisting of 10% of the data, was employed to fine-tune the model further and monitor its performance during training. The remaining 10% constituted the testing set, which served as an independent evaluation of the model's performance.
