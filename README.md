@@ -4,7 +4,7 @@
 
 **Sentiment Analyzer for Game Communities: The Commercial Value of Understanding Public Reaction**
 
-[![Icons](https://skillicons.dev/icons?i=py,pytorch,twitter&theme=dark)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=twitter,py,pytorch&theme=dark)](https://skillicons.dev)
 
 In today's gaming landscape, games are no longer just finished products released into the market. They have become ever-evolving services, constantly updated with bug fixes, patches, and announcements of future features. In this context, it is crucial for game companies to understand the community's reaction to these game modifications.
 
